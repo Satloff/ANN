@@ -14,15 +14,15 @@ Below are graphs for each variable that is varied, while the others are held con
 
 # Visualizations:
 
-![alt tag](https://github.com/WalkerGriggs/ArtificialNeuralNetwork/blob/master/resultImages/HiddenNodes.png)
-![alt tag](https://github.com/WalkerGriggs/ArtificialNeuralNetwork/blob/master/resultImages/LearningRate.png)
-![alt tag](https://github.com/WalkerGriggs/ArtificialNeuralNetwork/blob/master/resultImages/DecayRate.png)
-![alt tag](https://github.com/WalkerGriggs/ArtificialNeuralNetwork/blob/master/resultImages/Momentum.png)
-![alt tag](https://github.com/WalkerGriggs/ArtificialNeuralNetwork/blob/master/resultImages/OnlineStochastic.png)
+![alt tag](https://github.com/satloff/ann/blob/master/resultImages/HiddenNodes.png)
+![alt tag](https://github.com/satloff/ann/blob/master/resultImages/LearningRate.png)
+![alt tag](https://github.com/satloff/ann/blob/master/resultImages/DecayRate.png)
+![alt tag](https://github.com/satloff/ann/blob/master/resultImages/Momentum.png)
+![alt tag](https://github.com/satloff/ann/blob/master/resultImages/OnlineStochastic.png)
 
 # Results:
 
-![alt tag](https://github.com/WalkerGriggs/ArtificialNeuralNetwork/blob/master/resultImages/SampleResults.png)
+![alt tag](https://github.com/satloff/ann/blob/master/resultImages/SampleResults.png)
 
 Here are some of the mid-range results we saw. We were happy with our output of 211/250 (or ~84%) correct. We must note that the training set was quite small. On a larger set, the tests would have been more accurate, but there are indeed no more terminal configurations. But, for the same of speed, we chose a data set with only ~950 consumable patterns.
 
