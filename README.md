@@ -2,7 +2,7 @@
 
 # Abstract:
 
-NB: Thanks to our friend CP (@luftdanmark), who was kind enough to provide us the tic-tac-toe dataset used herein.
+NB: Thanks to our friend CP [(@luftdanmark)](https://github.com/luftdanmark), who was kind enough to provide us the tic-tac-toe dataset used herein.
 
 This dataset represents the full set of possible, terminal board configurations for the end of tic-tac-toe games, where player #1 is assumed to have played first. Each column of the dataset represents one single square on a tic-tac-toe game board. Each value within said columns represents which player occupied that space during the game. The players are represented by either 1 or 2, and if no player ever enters a specific square, a 0 is placed therein. It is important to note that only games that resulted in a win for player 1 or player 2 are included; there are no game states that resulted in a tie game.
 
