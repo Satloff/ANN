@@ -1,4 +1,4 @@
-# ArtificialNeuralNetwork (Walker Griggs and Theo Satloff)
+# ANN (Theo Satloff and [@WalkerGriggs](https://github.com/WalkerGriggs))
 
 # Abstract:
 
